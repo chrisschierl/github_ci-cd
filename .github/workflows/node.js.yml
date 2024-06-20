@@ -35,5 +35,5 @@ jobs:
 deploy:
   runs-on: ubuntu-latest
   steps:
-    - name: dummy Schritt
-      run: echo 'deploy'
+  - name: dummy Schritt
+    run: echo 'deploy'
